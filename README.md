@@ -1,5 +1,5 @@
 # SquashMerge
-Merge_squash.sh es el script que crea un {{BRANCH}}_for_merge a partir de un {{BRANCH}}. El otro esta pendiente, desestimenlo.
+Merge_squash.sh es el script que crea un {{BRANCH}}_for_merge a partir de un {{BRANCH}}.
 
 Toma todos los commits de {{BRANCH}}, y los squashea a {{BRANCH}}_for_merge para hacer un pull request y mergear a dev en un solo commit.
 
